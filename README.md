@@ -1,8 +1,3 @@
-Of course. Here is a redesigned and rewritten version of your `README.md` file.
-
-This version is designed to be more professional, visually appealing, and easier for other developers to understand at a glance. It introduces a clear structure, better wording, and modern elements like badges and a GIF placeholder.
-
------
 
 # 🧠 PromptPilot
 
